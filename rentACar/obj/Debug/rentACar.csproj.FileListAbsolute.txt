@@ -1,0 +1,7 @@
+C:\Users\enes4\Desktop\KURS\Çalışma\rentACar\rentACar\bin\Debug\rentACar.exe.config
+C:\Users\enes4\Desktop\KURS\Çalışma\rentACar\rentACar\bin\Debug\rentACar.exe
+C:\Users\enes4\Desktop\KURS\Çalışma\rentACar\rentACar\bin\Debug\rentACar.pdb
+C:\Users\enes4\Desktop\KURS\Çalışma\rentACar\rentACar\obj\Debug\rentACar.csproj.AssemblyReference.cache
+C:\Users\enes4\Desktop\KURS\Çalışma\rentACar\rentACar\obj\Debug\rentACar.csproj.CoreCompileInputs.cache
+C:\Users\enes4\Desktop\KURS\Çalışma\rentACar\rentACar\obj\Debug\rentACar.exe
+C:\Users\enes4\Desktop\KURS\Çalışma\rentACar\rentACar\obj\Debug\rentACar.pdb
